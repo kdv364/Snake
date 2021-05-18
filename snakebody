@@ -1,0 +1,6 @@
+#include "snakebody"
+
+snakebody::snakebody(QWidget *parent) : QWidget(parent)
+{
+
+}
